@@ -76,12 +76,18 @@ const education = [
 ];
 
 const certs = [
-  { issuer:'NPTEL', name:'Programming in Java Certification', date:'Apr 2026', desc:'Scored 90/100, earning an Elite + Gold credential[cite: 1].', driveUrl:'#'},
-  { issuer:'Be10x', name:'AI tools workshop', date:'Jul 2026', desc:'Advanced practical AI tooling and workspace efficiency training[cite: 1].', driveUrl:'#'},
-  { issuer:'Infosys Springboard', name:'Prompt Engineering Certification', date:'Feb 2026', desc:'Mastered structural prompt formulation and LLM task optimization[cite: 1].', driveUrl:'#'},
-  { issuer:'NMAM Institute of Technology', name:'Code for Innovex (Hackathon)', date:'Nov 2025', desc:'24-Hour National Level Hackathon - Top 48 Finalist out of 300+ Teams[cite: 1].', driveUrl:'#'},
-  { issuer:'IBM SkillsBuild', name:'AI Literacy Certification', date:'Dec 2025', desc:'Foundational core concepts in artificial intelligence architectures[cite: 1].', driveUrl:'#'},
-  { issuer:'Tata via Forage', name:'GenAI Powered Data Analytics Job Simulation', date:'Apr 2026', desc:'Practical enterprise analytics execution utilizing generative solutions[cite: 1].', driveUrl:'#'},
+  { issuer:'NPTEL', name:'Programming in Java Certification', date:'Apr 2026', desc:'Scored 90/100, earning an Elite + Gold credential.', driveUrl:'https://drive.google.com/file/d/1WmqCCRzMlOGAsIjp7stJ8FDhFgFdIQGY/view?usp=drive_link'},
+  { issuer:'Be10x', name:'AI tools workshop', date:'Jul 2026', desc:'Advanced practical AI tooling and workspace efficiency training.', driveUrl:'https://drive.google.com/drive/folders/17hgW5Hcf186BcnU1_xR0GtNun4k6AKS6'},
+  { issuer:'Infosys Springboard', name:'Prompt Engineering Certification', date:'Feb 2026', desc:'Mastered structural prompt formulation and LLM task optimization.', driveUrl:'https://drive.google.com/file/d/1mN2yXDCObe2XUDhF0-B249OOeULuyzz1/view?usp=drive_link'},
+  { issuer:'NMAM Institute of Technology', name:'Code for Innovex (Hackathon)', date:'Nov 2025', desc:'24-Hour National Level Hackathon - Top 48 Finalist out of 300+ Teams.', driveUrl:'https://drive.google.com/file/d/1b0evMy5aHRzdFLkUzgBWooSMCCiGP80x/view?usp=drive_link'},
+  { issuer:'IBM SkillsBuild', name:'AI Literacy Certification', date:'Dec 2025', desc:'Foundational core concepts in artificial intelligence architectures.', driveUrl:'https://drive.google.com/file/d/1w6M4ZqW7IaEU6d62Zpd5Bx6ZLYG7MonU/view?usp=drive_link'},
+  { issuer:'Tata via Forage', name:'GenAI Powered Data Analytics Job Simulation', date:'Apr 2026', desc:'Practical enterprise analytics execution utilizing generative solutions.', driveUrl:'https://drive.google.com/file/d/1fZnAtM2KiJIqKsHkI6FTJK3zjxohA8WP/view?usp=drive_link'},
+  { issuer:'Infosys Springboard', name:'Basics of Python', date:'Sep 2025', desc:'Python fundamentals, basic scripts, and structural workflows.', driveUrl:'https://drive.google.com/file/d/181ikSJpDa2qz_4C_tIN8jddLyy2hAjic/view?usp=drive_link'},
+  { issuer:'NXT Wave', name:'Generative AI', date:'Jun 2025', desc:'Generative AI concepts and modern application use-cases.', driveUrl:'https://drive.google.com/file/d/17hp4GMJjRai8RfaW19X1Llcmpdjs9Klm/view?usp=drive_link'},
+  { issuer:'LinkedIn Learning', name:'Modern CSS Techniques without JavaScript', date:'Jun 2025', desc:'Advanced layout design and styling with pure CSS.', driveUrl:'https://drive.google.com/file/d/17oVkV5Dja2dZf9PfukCwkFEuqEgNTX90/view?usp=drive_link'},
+  { issuer:'Spoken Tutorial, IIT Bombay', name:'C Programming Training Certification', date:'May 2025', desc:'Procedural compilation, memory structures, and file pointers.', driveUrl:'https://drive.google.com/file/d/17tqTR8fY4OlX0rGpVBhpCc3gRWAHQ_4e/view?usp=drive_link'},
+  { issuer:'Spoken Tutorial, IIT Bombay', name:'Html Programming Training Certification', date:'Oct 2025', desc:'Semantic web structure and content layout standards.', driveUrl:'https://drive.google.com/file/d/13CG7WECS2Sc7nMOusvq8L2NBU43_-_w5/view?usp=drive_link'},
+  { issuer:'Spoken Tutorial, IIT Bombay', name:'Java Programming Training Certification', date:'Apr 2026', desc:'Object-oriented programming execution and fundamentals.', driveUrl:'https://drive.google.com/file/d/1SBF_sFrpePOWKXl68fSW4qdusaA9IzKO/view?usp=drive_link'}
 ];
 
 /* ═══════════════ SKILLS GENERATION ═══════════════ */
