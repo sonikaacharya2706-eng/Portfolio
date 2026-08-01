@@ -1,12 +1,12 @@
 /* ═══════════════ RESUME DATA MAPPING ═══════════════ */
 const skills = [
-  { icon:'☕', name:'Java Programming', pct:92, desc:'Strong command of object-oriented principles, enterprise patterns, and advanced backend logic execution[cite: 1].' },
-  { icon:'⚙️', name:'C & ADA', pct:88, desc:'Proficient in systems-level programming, Algorithms and Data Structures (ADA), and memory architecture[cite: 1].' },
-  { icon:'🌐', name:'Web Technologies', pct:90, desc:'Skilled in HTML, CSS, JavaScript, responsive design interfaces, and modern layout structures[cite: 1].' },
-  { icon:'⚡', name:'Databases & Tools', pct:85, desc:'Experienced with DBMS, SQL, MongoDB, GitHub version control, Figma, and Canva design environments[cite: 1].' },
-  { icon:'📊', name:'Productivity Software', pct:90, desc:'Advanced expertise across Microsoft PowerPoint, Excel, and Word for professional analytical reporting[cite: 1].' },
-  { icon:'🎯', name:'Core Competencies', pct:92, desc:'Specialized in Data Structures & Algorithms (DSA), system logic architecture, and prompt engineering[cite: 1].' },
-  { icon:'🐧', name:'Professional Skills', pct:88, desc:'Strong leadership coordination capabilities, clear technical communication, and cross-functional team execution[cite: 1].' },
+  { icon:'☕', name:'Java Programming', pct:92, desc:'Strong command of object-oriented principles, enterprise patterns, and advanced backend logic execution.' },
+  { icon:'⚙️', name:'C & ADA', pct:88, desc:'Proficient in systems-level programming, Algorithms and Data Structures (ADA), and memory architecture.' },
+  { icon:'🌐', name:'Web Technologies', pct:90, desc:'Skilled in HTML, CSS, JavaScript, responsive design interfaces, and modern layout structures.' },
+  { icon:'⚡', name:'Databases & Tools', pct:85, desc:'Experienced with DBMS, SQL, MongoDB, GitHub version control, Figma, and Canva design environments.' },
+  { icon:'📊', name:'Productivity Software', pct:90, desc:'Advanced expertise across Microsoft PowerPoint, Excel, and Word for professional analytical reporting.' },
+  { icon:'🎯', name:'Core Competencies', pct:92, desc:'Specialized in Data Structures & Algorithms (DSA), system logic architecture, and prompt engineering.' },
+  { icon:'🐧', name:'Professional Skills', pct:88, desc:'Strong leadership coordination capabilities, clear technical communication, and cross-functional team execution.' },
 ];
 
 const projects = [
@@ -15,62 +15,62 @@ const projects = [
     tag:'Full-Stack AI Platform', 
     name:'HeritageSphere - AI-Integrated Cultural Explorer', 
     techs:['HTML','CSS','JavaScript','Conversational AI','Geospatial Mapping'], 
-    desc:'Developed a full-stack cultural platform featuring an interactive map of India with state-specific real-time engagement and color-themed immersion profiles[cite: 1]. Merged geospatial data with conversational AI and camera-driven features to provide automated chatbot assistance and interactive exploration[cite: 1].' 
+    desc:'Developed a full-stack cultural platform featuring an interactive map of India with state-specific real-time engagement and color-themed immersion profiles. Merged geospatial data with conversational AI and camera-driven features to provide automated chatbot assistance and interactive exploration.' 
   },
   { 
     emoji:'📋', 
     tag:'Backend Systems', 
     name:'Student CIE Results Monitoring and Messaging System', 
     techs:['Core Java','Multithreading'], 
-    desc:'Engineered a parallel performance processing framework in Java to manage, synthesize, and calculate student academic evaluations concurrently[cite: 1]. Implemented advanced multithreading principles, manually extending the Thread class and managing execution lifecycles using start(), sleep(), and join() methods to compile unified summary reports[cite: 1].' 
+    desc:'Engineered a parallel performance processing framework in Java to manage, synthesize, and calculate student academic evaluations concurrently. Implemented advanced multithreading principles, manually extending the Thread class and managing execution lifecycles using start(), sleep(), and join() methods to compile unified summary reports.' 
   },
   { 
     emoji:'⚡', 
     tag:'Web App', 
     name:'Queue Management System', 
     techs:['Python Flask','JavaScript','SQL'], 
-    desc:'Developed a digital application to replace manual queues, minimizing service delays and optimizing real-time data flow[cite: 1]. Implemented asynchronous frontend-backend communication to enable seamless data updates without page refreshes[cite: 1].' 
+    desc:'Developed a digital application to replace manual queues, minimizing service delays and optimizing real-time data flow. Implemented asynchronous frontend-backend communication to enable seamless data updates without page refreshes.' 
   },
   { 
     emoji:'🏛️', 
     tag:'Data Tracking', 
     name:'Temple Receipt Management System', 
     techs:['Core Programming','Data Structures'], 
-    desc:'Developed a digital tracking platform to record, manage, and audit donation receipts and minimize paperwork[cite: 1]. Optimized underlying data organization for rapid administrative record retrieval[cite: 1].' 
+    desc:'Developed a digital tracking platform to record, manage, and audit donation receipts and minimize paperwork. Optimized underlying data organization for rapid administrative record retrieval.' 
   },
   { 
     emoji:'🧮', 
     tag:'Desktop Utility', 
     name:'Scientific & Standard Calculator', 
     techs:['Java','C','Modular Design'], 
-    desc:'Created desktop calculator applications supporting arithmetic, trigonometric, and advanced functions[cite: 1]. Applied robust input validation and modular design principles to ensure calculation accuracy[cite: 1].' 
+    desc:'Created desktop calculator applications supporting arithmetic, trigonometric, and advanced functions. Applied robust input validation and modular design principles to ensure calculation accuracy.' 
   },
   { 
     emoji:'🎮', 
     tag:'Interactive Web', 
     name:'Rock Paper Scissor Game', 
     techs:['HTML','CSS','JavaScript'], 
-    desc:'Built an interactive web-based gaming application featuring real-time state management and dynamic UI elements[cite: 1]. Implemented core game logic, live score tracking, and instant feedback mechanisms for an engaging user experience[cite: 1].' 
+    desc:'Built an interactive web-based gaming application featuring real-time state management and dynamic UI elements. Implemented core game logic, live score tracking, and instant feedback mechanisms for an engaging user experience.' 
   },
 ];
 
 const education = [
   {
     badge:'Bachelor of Engineering', institution:'Canara Engineering College',
-    degree:'Bachelor of Engineering in Information Science and Technology[cite: 1]', year:'2028 · Bantwal, India[cite: 1]',
-    percentage:'GPA: 9.24[cite: 1]',
+    degree:'Bachelor of Engineering in Information Science and Technology', year:'2028 · Bantwal, India',
+    percentage:'GPA: 9.24',
     marks:[{subject:'Degree Status',score:'Pursuing'}]
   },
   {
     badge:'Pre-University', institution:'Canara Pre-University College',
-    degree:'PUC in PCMB[cite: 1]', year:'2024 · Mangalore, India[cite: 1]',
-    percentage:'GPA: 86.88[cite: 1]',
+    degree:'PUC in PCMB', year:'2024 · Mangalore, India',
+    percentage:'GPA: 86.88',
     marks:[{subject:'Stream',score:'Science'}]
   },
   {
     badge:'Secondary School', institution:'Kendriya Vidyalaya No.1',
-    degree:'Secondary Education[cite: 1]', year:'2022 · Mangalore, India[cite: 1]',
-    percentage:'GPA: 91.8[cite: 1]',
+    degree:'Secondary Education', year:'2022 · Mangalore, India',
+    percentage:'GPA: 91.8',
     marks:[{subject:'Board',score:'KVS'}]
   },
 ];
@@ -185,7 +185,7 @@ function renderCerts() {
       if(c.driveUrl && c.driveUrl !== '#') {
         window.open(c.driveUrl, '_blank');
       } else {
-        alert('Google Drive source reference placeholder setup detected. Configure the target link within your script array object parameters.');
+        alert('Google Drive source reference placeholder setup detected.');
       }
     });
     cg.appendChild(el);
@@ -233,20 +233,3 @@ function revealAll() {
   els.forEach(el => io.observe(el));
 }
 revealAll();
-
-/* ═══════════════ DIRECT GMAIL FORM SUBMISSION HANDLER ═══════════════ */
-const directMailForm = document.getElementById('directMailForm');
-if (directMailForm) {
-  directMailForm.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const name = document.getElementById('senderName').value;
-    const email = document.getElementById('senderEmail').value;
-    const subject = document.getElementById('senderSubject').value;
-    const message = document.getElementById('senderMessage').value;
-
-    const recipient = 'sonikaacharya2706@gmail.com';
-    const mailtoUrl = `mailto:${recipient}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent("Name: " + name + "\nEmail: " + email + "\n\nMessage:\n" + message)}`;
-    
-    window.location.href = mailtoUrl;
-  });
-}
